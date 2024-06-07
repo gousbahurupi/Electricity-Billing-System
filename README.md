@@ -24,6 +24,4 @@ This is a simple Electricity Billing System implemented in Java.
 
 Contributions are welcome! If you'd like to contribute to this project, feel free to open a pull request or create an issue.
 
-## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
